@@ -41,3 +41,4 @@ client.initialize().then(() => {
     console.log('تم تهيئة العميل بنجاح');
 }).catch((err) => {
     console.log('فشل في تهيئة العميل:', err);
+});
